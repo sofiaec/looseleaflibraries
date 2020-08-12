@@ -1,0 +1,150 @@
+.top-container {
+  background-color: #dbe2ef;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.middle-container{
+    background-color: #dbe2ef;
+  margin-bottom: 0;
+}
+.dcontainer{
+  background-color: #f9f7f7;
+  margin-bottom: 0;
+}
+.title {
+  margin:auto auto auto auto;
+
+  font-family: 'Sacramento', cursive;
+  font-size: 5.6525rem;
+  color: #112d4e;
+}
+table{
+  margin: 0 7% 0 7%;
+  padding-bottom: 100px;
+}
+hr{
+  border-style: dotted none none none;
+  border-color: white;
+  border-width: 5px;
+  height: 0;
+  width: 5%;
+  margin: 30px auto 0 auto;
+  padding-bottom: 30px;
+}
+table, th, td{
+
+
+    border: 3px solid black;
+     border-collapse: collapse;
+     padding-bottom: 30px;
+  /*
+  or for the border style you could also just do:
+  border-style: none;
+  border-top-style: dotted;
+  also when no border-- background-color:white;
+  */
+
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+
+}
+th, td{
+  padding:15px;
+}
+.reach{
+padding-top: 30px;
+margin-top:0;
+}
+.question{
+  margin: 0 0 0 0;
+  padding-top: 50px;
+}
+.disclaimer{
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 70px;
+  margin-bottom:0;
+}
+.oldbooks {
+  position: absolute;
+  width: 200px;
+  left: 5%;
+}
+
+.oldsinglebook {
+  position: absolute;
+  width: 200px;
+  right: 5%;
+  top: 55px;
+}
+.skill{
+  width:200px;
+   border-radius: 100%;
+
+
+}
+.middle-container{
+  display:block;
+}
+.contact-me{
+  display:block;
+    background-color: #f9f7f7;
+}
+.me{
+  width:300px;
+   border-radius: 100%;
+}
+.btn{
+    color:#f9b384
+}
+.youcan{
+  margin: .5em auto .5em auto
+}
+.or{
+    margin: .5em auto .5em auto
+}
+body {
+  margin: 0;
+  text-align: center;
+
+font-family: 'Karla', sans-serif;
+  font-size: 1.5rem;
+  color: #3f72af;
+}
+.recs{
+  margin: 0 auto 0 auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+h2 {
+  font-family: 'Karla', sans-serif;
+  font-size: 2.5rem;
+  color: #3f72af;
+
+}
+.question2{
+  margin-top:0;
+}
+
+h3 {
+  font-family: 'Karla', sans-serif;
+  color:#112d4e;
+}
+.footer-link{
+  color: #3f72af;
+}
+.footer-link:hover{
+  color:#112d4e;
+}
+.book {
+  text-decoration: underline;
+  font-weight:normal;
+}
+
+.bookspng {
+  width: 500px;
+  position: relative;
+  margin: 0 auto 0 auto;
+}
